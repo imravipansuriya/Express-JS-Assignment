@@ -1,0 +1,16 @@
+{
+  "name": "heroku_api",
+  "version": "1.0.0",
+  "description": "Student List API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}

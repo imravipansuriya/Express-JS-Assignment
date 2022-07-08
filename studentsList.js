@@ -21,9 +21,6 @@ app.get('/studentsList', (req, res) => {
 });
 })
 
-
-
-
 app.listen(port, (req, res)=>{
     console.log(`Server is listaning on port ${port}`)
 })

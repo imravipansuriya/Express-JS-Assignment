@@ -11,6 +11,7 @@ app.get('/', (req, res) => {
   res.send(`<b>Student List API</b>
     <p>Get Detail :- /getDetails</p>
     <p>Post Detail:- /add</p>
+    <p>Heroku App: https://bi-heroku.herokuapp.com/</p>
   `)
 })
 
